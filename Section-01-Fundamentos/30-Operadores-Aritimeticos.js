@@ -1,0 +1,11 @@
+const a = 20, b = 45, c = 33, d = 12;
+const soma = a + b + c + d;
+const subtracao = b - d;
+const multiplicacao = d * a;
+const divisao = c / d;
+const modulo = a % 2;
+console.log(soma);
+console.log(subtracao);
+console.log(multiplicacao);
+console.log(divisao);
+console.log(modulo);
