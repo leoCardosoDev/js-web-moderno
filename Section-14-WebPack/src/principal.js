@@ -1,5 +1,5 @@
 import Pessoa from './pessoa';
-import './modulos/moduloA';
-//const Pessoa = require('./pessoa');
+import './assets';
+
 const atendente = new Pessoa;
 console.log(atendente.cumprimentar());
